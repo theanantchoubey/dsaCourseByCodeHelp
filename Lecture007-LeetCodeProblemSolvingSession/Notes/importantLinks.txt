@@ -1,0 +1,13 @@
+1. Handwritten Notes - https://drive.google.com/file/d/1l0sV5t5AeujRd2D35j5JC4qTUbq8xMOu/view
+2. Slides Discussed in Lecture - https://drive.google.com/file/d/1UuE9Ja3lCteIkAghNWj4KsNz1ON92tfy/view
+
+Questions Covered - LEETCODE
+7. Reverse Integer - https://leetcode.com/problems/reverse-integer/
+1009. Complement of Base 10 Integer - https://leetcode.com/problems/complement-of-base-10-integer/
+231. Power of Two - https://leetcode.com/problems/power-of-two/
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
