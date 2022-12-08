@@ -1,0 +1,11 @@
+Questions Discussed on Leetcode
+1. Subtract the Product and Sum of Digits of an Integer--  https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+2. Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+
+
+Homework Questions
+1. Reverse Integer - https://leetcode.com/problems/reverse-integer/
+2. Complement of Base 10 Integer - https://leetcode.com/problems/complement-of-base-10-integer/
+3. Number Complement - https://leetcode.com/problems/number-complement/
+4. Binary to Decimal
+5. Decimal to Binary

@@ -1,0 +1,3 @@
+1. Handwritten Notes - https://drive.google.com/file/d/14CMAnuh2b4Lg0Qf2nJS_ZtYwg1PMoF_q/view
+2. Slides Discussed In Lecture - https://drive.google.com/file/d/1bOM6liMqLf1RLj1NjuhO0-Ra1X6BC8Kw/view
+3. Stack Overflow Question - https://stackoverflow.com/questions/18914106/what-is-the-use-of-using-namespace-std?lq=1
