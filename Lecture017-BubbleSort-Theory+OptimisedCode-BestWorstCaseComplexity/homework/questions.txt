@@ -1,0 +1,5 @@
+Homework Questions:
+Ques 1: if(i = 1 to n, j = 0 to < n-1) && then (i= 0 to n-1, j = 0 to < n-i-1) | Dry run j and Understand the Logic
+Ques 2: Check whether Bubble Sort Algorithm is stable or not ?
+Ques 3: Google In Place Sort
+Ques 4: Solve GFG Quiz on Bubble Sort - https://www.geeksforgeeks.org/quiz-bubblesort-gq/

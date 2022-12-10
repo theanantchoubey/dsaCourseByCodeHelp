@@ -1,0 +1,17 @@
+0. Lecture Link - https://www.youtube.com/watch?v=zOhUavxlzw4
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1DScaSvG0TzAy2b9MF9CcEtzoOxvai3MY/view
+
+CodeStudioProblems discussed and solved in Lecture:
+1. Bubble Sort - https://www.codingninjas.com/codestudio/problems/bubble-sort_980524
+
+Homework Questions:
+Ques 1: if(i = 1 to n, j = 0 to < n-1) && then (i= 0 to n-1, j = 0 to < n-i-1) | Dry run j and Understand the Logic
+Ques 2: Check whether Bubble Sort Algorithm is stable or not ?
+Ques 3: Google In Place Sort
+Ques 4: Solve GFG Quiz on Bubble Sort - https://www.geeksforgeeks.org/quiz-bubblesort-gq/
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
