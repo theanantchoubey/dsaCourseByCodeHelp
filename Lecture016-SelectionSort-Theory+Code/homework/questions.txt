@@ -1,0 +1,7 @@
+
+Homework Questions:
+Ques 1: Draw flowchart of Selection Sort Algorithm
+Ques 2: Find 
+            a. Is Selection Sort Algorithm stable or unstable ?
+            b. What are stable and unstable algorithms ?
+            c. What are Order Preserve ?

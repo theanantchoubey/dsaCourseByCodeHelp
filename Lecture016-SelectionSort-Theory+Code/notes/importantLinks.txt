@@ -1,0 +1,19 @@
+0. Lecture Link - https://www.youtube.com/watch?v=UdO2NeHB46c
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1WtwEvIvqKOUR0Ys0S_SLPjfWzcT-W4_X/view
+
+CodeStudioProblems discussed and solved in Lecture:
+1. Selection Sort - https://www.codingninjas.com/codestudio/problems/selection-sort_981162
+
+Homework Questions:
+Ques 1: Draw flowchart of Selection Sort Algorithm
+Ques 2: Find 
+            a. Is Selection Sort Algorithm stable or unstable ?
+            b. What are stable and unstable algorithms ?
+            c. What are Order Preserve ?
+Task 1: Participate in First Love Babbar DSA Contest - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-l
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
