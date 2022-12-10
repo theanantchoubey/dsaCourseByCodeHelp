@@ -1,0 +1,7 @@
+Homework Questions:
+Ques 1: Dry Run Test Cases & Solve again (by Yourself) - Allocate Books - https://www.codingninjas.com/codestudio/problems/allocate-books_1090540?leftPanelTab=0
+Ques 2: Painter's Partition Problem (Dry run done, solving Homework) - https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557?leftPanelTab=0
+Ques 3: EKO SPOJ - https://www.spoj.com/problems/EKO/
+Ques 4: PRATA SPOJ - https://www.spoj.com/problems/PRATA/
+Ques 5: Cooking Ninjas - https://www.codingninjas.com/codestudio/problems/cooking-ninjas_1164174?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+Ques 6: Allocate Books (Another Question) - https://www.codingninjas.com/codestudio/problems/ayush-gives-ninjatest_1097574

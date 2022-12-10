@@ -1,0 +1,21 @@
+0. Lecture Link - https://www.youtube.com/watch?v=YTTdLgyqOLY
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1d2eNEMdw5iuX7PflLfGykLgKF-SloUyr/view
+
+CodeStudioProblems discussed and solved in Lecture:
+1. Allocate Books - https://www.codingninjas.com/codestudio/problems/allocate-books_1090540?leftPanelTab=0
+2. Painter's Partition Problem (Dry run done, solving Homework) - https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557?leftPanelTab=0
+3. Aggressive Cows - https://www.codingninjas.com/codestudio/problems/aggressive-cows_1082559?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTab=0
+
+Homework Questions:
+Ques 1: Dry Run Test Cases & Solve again (by Yourself) - Allocate Books - https://www.codingninjas.com/codestudio/problems/allocate-books_1090540?leftPanelTab=0
+Ques 2: Painter's Partition Problem (Dry run done, solving Homework) - https://www.codingninjas.com/codestudio/problems/painter-s-partition-problem_1089557?leftPanelTab=0
+Ques 3: EKO SPOJ - https://www.spoj.com/problems/EKO/
+Ques 4: PRATA SPOJ - https://www.spoj.com/problems/PRATA/
+Ques 5: Cooking Ninjas - https://www.codingninjas.com/codestudio/problems/cooking-ninjas_1164174?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+Ques 6: Allocate Books (Another Question) - https://www.codingninjas.com/codestudio/problems/ayush-gives-ninjatest_1097574
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
