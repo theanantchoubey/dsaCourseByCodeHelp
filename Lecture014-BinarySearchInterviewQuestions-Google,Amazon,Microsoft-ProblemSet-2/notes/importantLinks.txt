@@ -1,0 +1,19 @@
+0. Lecture Link - https://www.youtube.com/watch?v=6z2HK4o8qcU&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=14
+1. Slides discussed in the Lecture - https://drive.google.com/file/d/1XnVxN4_7Lt-3RyoF2v2p0G-w30dqzGjk/view
+
+LeetCode /CodeStudioProblems discussed and solved in Lecture:
+1. Find Pivot in an Array - In lecture Folder (Used in 2nd Question)
+2. Search in a rotated & Sorted array - https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_1082554?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+3. Sqrt(x) & Finding float - https://leetcode.com/problems/sqrtx/
+
+Homework Questions:
+Ques 1: Square Root - https://www.codingninjas.com/codestudio/problems/square-root_893351?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+Ques 2: Approach 2 - Search in a rotated & Sorted array - https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_1082554?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+Ques 3: Approach 3 - Search in a rotated & Sorted array - https://www.codingninjas.com/codestudio/problems/search-in-rotated-sorted-array_1082554?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+Ques 4: Understand, Read and Pre Try - Allocate Books - https://www.codingninjas.com/codestudio/problems/ayush-and-ninja-test_1097574?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
