@@ -1,0 +1,23 @@
+0. Lecture Link - https://www.youtube.com/watch?v=Z7_nMTHROZo
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/11ACmTRSo_pblv9u_rNbDSUqIFA3UVy2b/view
+
+LeetCode / CodeStudio Problems discussed and solved in Lecture:
+1. Rotate Array - https://leetcode.com/problems/rotate-array/
+2. Check if Array Is Sorted and Rotated - https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+3. Sum Of Two Arrays - https://www.codingninjas.com/codestudio/problems/sum-of-two-arrays_893186
+
+Homework Questions
+Ques 1: Rotate Array - https://leetcode.com/problems/rotate-array/
+Ques 2: Check if Array Is Sorted and Rotated - https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+Ques 3: Sum Of Two Arrays - https://www.codingninjas.com/codestudio/problems/sum-of-two-arrays_893186
+[Solve Ques 1 to Ques 3 by Yourself Again]
+
+Homework Tasks
+Task 1: Participate in Second Love Babbar DSA Contest - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-ii
+Task 2: Calculate & Comment Time and Space Complexity of (Ques 1 to 3)
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868

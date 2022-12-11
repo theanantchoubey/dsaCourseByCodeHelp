@@ -1,0 +1,5 @@
+Homework Questions
+Ques 1: Rotate Array - https://leetcode.com/problems/rotate-array/
+Ques 2: Check if Array Is Sorted and Rotated - https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
+Ques 3: Sum Of Two Arrays - https://www.codingninjas.com/codestudio/problems/sum-of-two-arrays_893186
+[Solve Ques 1 to Ques 3 by Yourself Again]
