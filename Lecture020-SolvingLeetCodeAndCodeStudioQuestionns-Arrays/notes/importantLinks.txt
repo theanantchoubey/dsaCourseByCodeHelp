@@ -1,0 +1,16 @@
+0. Lecture Link - https://www.youtube.com/watch?v=MPvr-LmaZmA
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1JeiKyFYkzoiLJGBkYAJMMnKGq7Lf1xVq/view
+
+LeetCode / CodeStudio Problems discussed and solved in Lecture:
+1. Reverse the Array - https://www.codingninjas.com/codestudio/problems/reverse-the-array_1262298 
+2. Merge Sorted Array ( Dry Run )- https://leetcode.com/problems/merge-sorted-array/
+3. Move Zeroes - https://leetcode.com/problems/move-zeroes/
+
+Homework Questions:
+Ques 1: Solve - Merge Sorted Array - https://leetcode.com/problems/merge-sorted-array/
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
