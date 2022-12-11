@@ -1,0 +1,13 @@
+0. Lecture Link - https://www.youtube.com/watch?v=WgMPrLX-zsA
+1. Slides Discussed in the Lecture - https://whimsical.com/c-stl-XVxuHHof5GTWA4NXZhXQhx
+
+Homework Questions
+Ques 1: Learn about Pairs and Comparators
+Ques 2: Try Unordered Associative
+Ques 3: Read Documentation of Container, Algorithms  - https://whimsical.com/c-stl-KPauCUJhhHnFQU8xUea5oa
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
