@@ -1,0 +1,7 @@
+Homework tasks
+Task 1: Read - https://stackoverflow.com/questions/40716515/do-stdstrings-end-in-0-when-initialized-with-a-string-literal
+Task 2: Read about Strings - https://cplusplus.com/reference/string/string/
+Task 3: Google Key Differences between Char Array and String
+Task 4: Google and Read about cin.getline()
+Task 5: Google and Read about How to use custom delimeter ?
+Task 6: Read Editorials, Discussions of all the Questions and note(see) various approaches to solve the problems.

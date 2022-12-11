@@ -1,0 +1,6 @@
+Homework Questions
+Ques 1: Check Palindrome - https://www.codingninjas.com/codestudio/problems/check-if-the-string-is-a-palindrome_1062633
+Ques 2: Reverse Words in a String - https://leetcode.com/problems/reverse-words-in-a-string-ii/
+Ques 3: Replace Spaces [Solve without using temp -> implaceSolution --> O(1) Space Complexity]- https://www.codingninjas.com/codestudio/problems/replace-spaces_1172172
+Ques 4: Remove All Adjacent Duplicates In String [Try 1 to 1.5 Hr to think about approach] - https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+Ques 5: String Compression [Read Carefully and solve again] - https://leetcode.com/problems/string-compression/
