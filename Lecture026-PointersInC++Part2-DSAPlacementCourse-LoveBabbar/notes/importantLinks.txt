@@ -1,5 +1,5 @@
-0. Lecture Link - https://www.youtube.com/watch?v=YHwEIfrXZgE
-1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1KsR67CqVjdaG43EAsU8tb1OHi2tT3r8J/view
+0. Lecture Link - https://www.youtube.com/watch?v=rlpw7oi-bpE
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1akN4faN_9fC_dlBRylMbuAQTEU89zlRS/view
 
 Homework Tasks -
 Task 1: Read about Pointers - https://www.codingninjas.com/codestudio/guided-paths/pointers
