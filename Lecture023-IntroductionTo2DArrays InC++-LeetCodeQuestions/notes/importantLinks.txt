@@ -1,0 +1,24 @@
+0. Lecture Link - https://www.youtube.com/watch?v=1CdolnvxLs0
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1Vng3rgVFFnl0a5UbUhUO8YgxfClbcrgm/view
+
+Leetcode / CodeStudio Questions Discussed in the Lecture --:
+1. Print Like a Wave - https://www.codingninjas.com/codestudio/problems/print-like-a-wave_893268
+2. Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
+3. Search a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
+4. Search a 2D Matrix II - https://leetcode.com/problems/search-a-2d-matrix-ii/
+
+Homework Questions --:
+Ques 1: Rotate Image - https://leetcode.com/problems/rotate-image/
+Ques 2: ReSolve Search in a 2D Matrix - https://leetcode.com/problems/search-a-2d-matrix/
+Ques 3: Solve atleast 10 Questions of 2D Arrays - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+
+Homework Tasks --:
+Task 1: Read Discussions & Editorials of all Questions
+Task 2: Do Read why we need to Specify the column size when passing a 2D array as a Parameter - https://stackoverflow.com/questions/12813494/why-do-we-need-to-specify-the-column-size-when-passing-a-2d-array-as-a-parameter
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
