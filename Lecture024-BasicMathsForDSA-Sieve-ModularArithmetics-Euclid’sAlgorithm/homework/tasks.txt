@@ -1,0 +1,10 @@
+Homework Tasks - 
+Task 1: Find how to Calculate Time Complexity of Sieve of Eratosthenes using Taylor's Series Maths - Page 1 of Notes
+Task 2: Read Segmented Sieve and Code
+Task 3: Read about GCD - https://www.codingninjas.com/codestudio/library/gcd-euclidean-algorithm
+Task 4: Read about Modular Arithmetic - https://codeforces.com/blog/entry/72527?f0a28=1
+Task 5: Read about Following from Google - 
+            a. Pigeonhole Principle
+            b. Catalon Number & its real life example
+            c. Inclusive and Exclusive example
+Task 6: Keep on Commenting Time Complexity of all Questions

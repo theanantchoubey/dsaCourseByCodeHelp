@@ -1,0 +1,27 @@
+0. Lecture Link - https://www.youtube.com/watch?v=ac7ii_XfoRI
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1loIOO_WWechujjzOcZz31ax2-FObjVvJ/view
+
+LeetCode / CodeStudio Questions Discussed in Lecture - 
+1. Count Primes - https://leetcode.com/problems/count-primes/
+2. Modular Exponentiation - https://www.codingninjas.com/codestudio/problems/modular-exponentiation_1082146
+
+
+Homework Questions - 
+Ques 1: Factorial of Number --> | 212! % m; m = 10^9 + 7;
+
+Homework Tasks - 
+Task 1: Find how to Calculate Time Complexity of Sieve of Eratosthenes using Taylor's Series Maths - Page 1 of Notes
+Task 2: Read Segmented Sieve and Code
+Task 3: Read about GCD - https://www.codingninjas.com/codestudio/library/gcd-euclidean-algorithm
+Task 4: Read about Modular Arithmetic - https://codeforces.com/blog/entry/72527?f0a28=1
+Task 5: Read about Following from Google - 
+            a. Pigeonhole Principle
+            b. Catalon Number & its real life example
+            c. Inclusive and Exclusive example
+Task 6: Keep on Commenting Time Complexity of all Questions
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
