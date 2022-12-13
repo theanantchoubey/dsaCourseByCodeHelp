@@ -1,0 +1,4 @@
+Homework Tasks -
+Task 1: Read Article on Macros and its types - https://www.geeksforgeeks.org/macros-and-its-types-in-c-cpp/
+Task 2: Read about Constant Variables from Google
+Task 3: Read all which Discussed - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118785/offering/1381146
