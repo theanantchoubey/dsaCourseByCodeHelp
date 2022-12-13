@@ -1,0 +1,6 @@
+Homework Questions
+Ques 1: Check If Binary Representation of a Number is Palindrome - https://www.codingninjas.com/codestudio/problems/check-palindrome_920555
+Ques 2: Solve Reverse String without using i - https://www.codingninjas.com/codestudio/problems/reverse-the-string_799927
+Ques 3: Solve Check Palindrome without using j - lecture/problem02/
+Ques 4: Solve Selection Sort using Recursion
+Ques 5: Solve Insertion Sort using Recursion

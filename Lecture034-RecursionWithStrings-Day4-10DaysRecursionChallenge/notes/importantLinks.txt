@@ -1,0 +1,19 @@
+0. Lecture Link - https://www.youtube.com/watch?v=WyY2Af3k1xI
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/14N_2L0wFN67eL-Gr2DOLvozX_zSEmk4M/view
+
+CodeStudio Questions Discussed in the Lecture - 
+1. Reverse the String - https://www.codingninjas.com/codestudio/problems/reverse-the-string_799927
+
+Homework Questions
+Ques 1: Check If Binary Representation of a Number is Palindrome - https://www.codingninjas.com/codestudio/problems/check-palindrome_920555
+Ques 2: Solve Reverse String without using i - https://www.codingninjas.com/codestudio/problems/reverse-the-string_799927
+Ques 3: Solve Check Palindrome without using j - lecture/problem02/
+Ques 4: Solve Selection Sort using Recursion
+Ques 5: Solve Insertion Sort using Recursion
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
