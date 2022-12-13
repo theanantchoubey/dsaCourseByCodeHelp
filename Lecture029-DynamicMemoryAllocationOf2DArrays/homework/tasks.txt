@@ -1,0 +1,2 @@
+Homework Tasks -
+Task 1: Read about Static Memory Allocation - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118785/offering/1381146
