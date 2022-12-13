@@ -1,0 +1,5 @@
+Homework Tasks -
+Task 1: Read about Pointers and Memory Allocation - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c
+Task 2: Read about Static Memory Allocation - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118785/offering/
+Task 3: Read about Void Pointer
+Task 4: Read about Address TypeCasting

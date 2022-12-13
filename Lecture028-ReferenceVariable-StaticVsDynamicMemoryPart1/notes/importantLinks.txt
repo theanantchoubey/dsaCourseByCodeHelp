@@ -1,0 +1,15 @@
+0. Lecture Link - https://www.youtube.com/watch?v=MMO2c57XHzM
+1. Slides Discussed in Lecture - https://drive.google.com/file/d/1JIU_63HFF_tGjSNF21x-i_ZZL5Sae1tp/view
+
+Homework Tasks -
+Task 1: Read about Pointers and Memory Allocation - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c
+Task 2: Read about Static Memory Allocation - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118785/offering/
+Task 3: Read about Void Pointer
+Task 4: Read about Address TypeCasting
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
