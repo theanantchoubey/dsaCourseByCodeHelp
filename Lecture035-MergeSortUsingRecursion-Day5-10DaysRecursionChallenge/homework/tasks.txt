@@ -1,3 +1,5 @@
 Homework Tasks - 
 Task 1: Read Geeks For Geeks Article -https://www.geeksforgeeks.org/merge-sort/
 Task 2: Complexity --> O (n log n) --> Explore How ?
+Task 3: Participate in Contest 3: https://www.codingninjas.com/codestudio/contests/love-babbar-contest-3
+

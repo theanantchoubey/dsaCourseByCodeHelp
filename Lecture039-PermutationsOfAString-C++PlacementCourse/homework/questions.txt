@@ -1,0 +1,3 @@
+Homework Questions -
+Ques 1: Find Bruteforce Approch to Solve Permutations - https://leetcode.com/problems/permutations
+Ques 2: Solve Permutations of a String - https://www.codingninjas.com/codestudio/problems/permutations-of-a-string_985254

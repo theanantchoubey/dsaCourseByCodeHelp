@@ -10,6 +10,7 @@ Ques 1: Solve Inversion Count - https://www.geeksforgeeks.org/inversion-count-in
 Homework Tasks - 
 Task 1: Read Geeks For Geeks Article -https://www.geeksforgeeks.org/merge-sort/
 Task 2: Complexity --> O (n log n) --> Explore How ?
+Task 3: Participate in Contest 3: https://www.codingninjas.com/codestudio/contests/love-babbar-contest-3
 
 Others
 1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
