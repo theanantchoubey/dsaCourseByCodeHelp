@@ -1,0 +1,17 @@
+0. Lecture Link - https://www.youtube.com/watch?v=V0IgCltYgg4
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1VPaZB14_cpl1yx8f5yyvNdHJuE42CEpG/view
+
+LeetCode / CodeStudio Questions Discussed in the Lecture - 
+1. Subsets - https://leetcode.com/problems/subsets/
+2. Subsequences of String - https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087
+
+Homework Questions - 
+Ques 1: Solve Subsets using Bit Manipulation - https://leetcode.com/problems/subsets/
+Ques 2: Solve Subsequences of String Using Bit Manipulation - https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view

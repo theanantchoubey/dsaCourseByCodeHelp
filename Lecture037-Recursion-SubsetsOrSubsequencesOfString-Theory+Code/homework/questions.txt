@@ -1,0 +1,3 @@
+Homework Questions - 
+Ques 1: Solve Subsets using Bit Manipulation - https://leetcode.com/problems/subsets/
+Ques 2: Solve Subsequences of String Using Bit Manipulation - https://www.codingninjas.com/codestudio/problems/subsequences-of-string_985087
