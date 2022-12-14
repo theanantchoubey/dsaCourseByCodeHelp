@@ -1,0 +1,4 @@
+Homework Tasks -
+Task 1: Read GeeksForGeeks Article on Quick Sort - https://www.geeksforgeeks.org/quick-sort/
+Task 2: Check if Quick Sort is in place Sorting Technique
+Task 3: Check if Quick Sort Recursion is Stable or Not ?
