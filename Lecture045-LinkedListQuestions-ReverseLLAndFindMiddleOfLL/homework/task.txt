@@ -1,2 +1,3 @@
 Homework Tasks - 
 Task 1: Find if Condition for 2 nodes is needed or not in Approach 2 of  Middle Of Linked List - https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250
+Task 2: Participate in Contest 4 - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-4
