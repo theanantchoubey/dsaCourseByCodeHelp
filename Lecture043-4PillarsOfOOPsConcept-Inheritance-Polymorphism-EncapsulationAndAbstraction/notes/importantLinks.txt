@@ -1,0 +1,18 @@
+0. Lecture Link - https://www.youtube.com/watch?v=b3GccK5_KSQ
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1L5Syt7UWG4FJBDth6tfoBn8FfuEMGLUL/view
+
+Homework Questions - 
+Ques 1: Implement Hybrid Inheritance
+
+Homework Tasks - 
+Task 1: Read CodeStudio Documentation on OOPs - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118817/offering/1382190
+Task 2: Read Difference Between Abstraction and Encapsulation - https://stackoverflow.com/questions/742341/difference-between-abstraction-and-encapsulation
+Task 3: Read OOPs Cheatsheet - https://whimsical.com/object-oriented-programming-cheatsheet-by-love-babbar-YbSgLatbWQ4R5paV7EgqFw
+[Other Link for Task 3: https://github.com/vineethm1627/OOP ]
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
