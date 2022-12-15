@@ -1,0 +1,5 @@
+Homework Tasks
+Task 1: Read about Padding and Greedy Alignment
+Task 2: Read about const Keyword, how to use it in Object Creation and Types of Function can be created using it.
+Task 3: Initialisation List
+Task 4: Read OOPs Module - https://www.codingninjas.com/codestudio/guided-paths/basics-of-c/content/118817/offering/1382190
