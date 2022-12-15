@@ -1,0 +1,22 @@
+0. Lecture Link - https://www.youtube.com/watch?v=vqS1nVQdCJM
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1qoaNdDawMmv6JiP3C7MKUE4UYdzg1ryG/view
+
+CodeStudio Questions Discussed in the Lecture - 
+1. Reverse Linked List - https://www.codingninjas.com/codestudio/problems/reverse-linked-list_920513
+2. Middle Of Linked List - https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250
+
+Homework Questions -
+Ques 1: Reverse Doubly Linked List
+Ques 2: Reverse List In K Groups - https://www.codingninjas.com/codestudio/problems/reverse-list-in-k-groups_983644
+Ques 3: Circularly Linked - https://www.codingninjas.com/codestudio/problems/circularly-linked_1070232
+Ques 4: Reverse Linked List - https://www.codingninjas.com/codestudio/problems/reverse-the-singly-linked-list_799897
+
+Homework Tasks - 
+Task 1: Find if Condition for 2 nodes is needed or not in Approach 2 of  Middle Of Linked List - https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view

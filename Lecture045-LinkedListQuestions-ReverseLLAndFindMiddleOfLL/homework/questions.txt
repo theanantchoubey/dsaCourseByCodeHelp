@@ -1,0 +1,5 @@
+Homework Questions -
+Ques 1: Reverse Doubly Linked List
+Ques 2: Reverse List In K Groups - https://www.codingninjas.com/codestudio/problems/reverse-list-in-k-groups_983644
+Ques 3: Circularly Linked - https://www.codingninjas.com/codestudio/problems/circularly-linked_1070232
+Ques 4: Reverse Linked List - https://www.codingninjas.com/codestudio/problems/reverse-the-singly-linked-list_799897

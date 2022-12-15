@@ -1,0 +1,2 @@
+Homework Tasks - 
+Task 1: Find if Condition for 2 nodes is needed or not in Approach 2 of  Middle Of Linked List - https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250
