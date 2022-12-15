@@ -1,0 +1,5 @@
+Homework Questions - 
+Ques 1: Delete Node through Value
+Ques 2: How to make tail -> head while deleting last Node in Singly Linked List
+Ques 3: How to make tail -> head while deleting last Node in Doubly Linked List
+Ques 4: Implement Doubly Circular Linked List
