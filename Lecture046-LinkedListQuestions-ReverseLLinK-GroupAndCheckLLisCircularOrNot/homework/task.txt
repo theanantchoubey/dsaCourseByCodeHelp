@@ -1,0 +1,2 @@
+Homework Task - 
+Task 1: Read about Floyd's Cycle Detection Algorithm

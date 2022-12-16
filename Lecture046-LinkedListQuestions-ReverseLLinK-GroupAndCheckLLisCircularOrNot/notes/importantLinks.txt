@@ -1,0 +1,19 @@
+0. Lecture Link - https://www.youtube.com/watch?v=fi2vh0nQLi0
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/13nygYS4RjB1KgQSVNxWSpB0ihIyWTVZI/view
+
+CodeStudio Questions Discussed in the Lecture - 
+1. Reverse List In K Groups - https://www.codingninjas.com/codestudio/problems/reverse-list-in-k-groups_983644
+2. Circularly Linked - https://www.codingninjas.com/codestudio/problems/circularly-linked_1070232
+
+Homework Question -
+Ques 1: Solve Circularly Linked using Maps Approach - https://www.codingninjas.com/codestudio/problems/circularly-linked_1070232
+
+Homework Task - 
+Task 1: Read about Floyd's Cycle Detection Algorithm
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
