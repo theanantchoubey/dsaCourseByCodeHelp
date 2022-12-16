@@ -1,0 +1,17 @@
+0. Lecture Link - https://www.youtube.com/watch?v=7pgs-wT5d4c
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1Ypkvl-hT_VsqYeFkQg3SNBlZd72P-9zB/view
+
+CodeStuido Questions Discussed in the Lecture -
+1. Remove Duplicates From Sorted List - https://www.codingninjas.com/codestudio/problems/unique-sorted-list_2420283
+2. Remove Duplicates From an Unsorted Linked List (Dry Run) - https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-unsorted-linked-list_1069331
+
+Homework Questions -
+Ques 1: Solve (with 3 Different Approaches) - Remove Duplicates From an Unsorted Linked List (Dry Run) - https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-unsorted-linked-list_1069331
+Ques 2: Split Circular Linked List in Two Halves
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
