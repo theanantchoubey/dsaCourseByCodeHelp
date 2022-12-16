@@ -1,0 +1,13 @@
+0. Lecture Link - https://www.youtube.com/watch?v=ogmBt6f9hw8
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1GLx5EFTXAc_LIrjLreIhwdTUlmHDtN29/view
+
+CodeStudio Questions Discussed in the Lecture - 
+1. Sort linked list of 0s 1s 2s - https://www.codingninjas.com/codestudio/problems/sort-linked-list-of-0s-1s-2s_1071937
+2. Merge Two Sorted Linked Lists - https://www.codingninjas.com/codestudio/problems/merge-two-sorted-linked-lists_800332
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
