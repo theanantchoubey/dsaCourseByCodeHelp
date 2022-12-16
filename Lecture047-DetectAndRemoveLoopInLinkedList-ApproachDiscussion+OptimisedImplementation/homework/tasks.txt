@@ -1,0 +1,3 @@
+Homework Tasks -
+Task 1: Identify and Solve 5 Approaches of Removing the Loop (1 Already Discussed)
+Task 2: Identify and Solve 3 Approaches of Detecting Cycle (2 Already Discussed)

@@ -1,0 +1,16 @@
+0. Lecture Link - https://www.youtube.com/watch?v=VxOFflTXlXo
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1dp1VlPSlWN-jHsDmqWzOml6HJ1UhdhQ3/view
+
+CodeStudio Question Discussed in the Lecture - 
+1. Detect and Remove Loop - https://www.codingninjas.com/codestudio/problems/interview-shuriken-42-detect-and-remove-loop_241049
+
+Homework Tasks -
+Task 1: Identify and Solve 5 Approaches of Removing the Loop (1 Already Discussed)
+Task 2: Identify and Solve 3 Approaches of Detecting Cycle (2 Already Discussed)
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
