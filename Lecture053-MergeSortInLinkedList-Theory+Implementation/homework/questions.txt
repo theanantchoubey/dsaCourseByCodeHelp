@@ -1,0 +1,3 @@
+Homework Questions -
+Ques 1: Solve Flatten A Linked List - https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655
+Ques 2: Solve rest Questions of Linked List - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view

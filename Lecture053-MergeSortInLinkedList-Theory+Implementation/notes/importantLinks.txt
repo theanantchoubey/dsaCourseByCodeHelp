@@ -1,0 +1,20 @@
+0. Lecture Link - https://www.youtube.com/watch?v=rM5EEA_rbNY
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1mi4oigRBXqzk-8-VHfcCJcEzAX1VV94P/view
+
+CodeStudio Questions Discussed in the Lecture -
+1. MergeSort Linked List - https://www.codingninjas.com/codestudio/problems/mergesort-linked-list_630514
+2. Flatten A Linked List (Approach) - https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655
+
+Homework Questions -
+Ques 1: Solve Flatten A Linked List - https://www.codingninjas.com/codestudio/problems/flatten-a-linked-list_1112655
+Ques 2: Solve rest Questions of Linked List - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+
+Homework Task - 
+Task 1: Read - Why You Prefer MergeSort in Linked List and Quick Sort in Arrays ?
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view

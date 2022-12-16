@@ -1,0 +1,2 @@
+Homework Task - 
+Task 1: Read - Why You Prefer MergeSort in Linked List and Quick Sort in Arrays ?
