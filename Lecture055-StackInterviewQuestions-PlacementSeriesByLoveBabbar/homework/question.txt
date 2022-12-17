@@ -1,0 +1,6 @@
+Homework Questions - 
+Ques 1: Calculate Space Complexity of the following - 
+            a. Insert An Element At Its Bottom In A Given Stack - https://www.codingninjas.com/codestudio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166
+            b. Reverse Stack Using Recursion - https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875
+            c. Sort a Stack - https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275
+            d. Redundant Brackets - https://www.codingninjas.com/codestudio/problems/redundant-brackets_975473

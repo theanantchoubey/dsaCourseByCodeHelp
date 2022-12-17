@@ -1,0 +1,25 @@
+0. Lecture Link -  https://www.youtube.com/watch?v=BmZnJehDzyU
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1fwiLdh_Bs7mebGgAIXjSAEc9h_5ZbGOf/view
+
+CodeStudio Questions Discussed in the Lecture -
+1. Delete middle element from stack - https://www.codingninjas.com/codestudio/problems/delete-middle-element-from-stack_985246
+2. Valid Parentheses - https://www.codingninjas.com/codestudio/problems/valid-parenthesis_795104
+3. Insert An Element At Its Bottom In A Given Stack - https://www.codingninjas.com/codestudio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166
+4. Reverse Stack Using Recursion - https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875
+5. Sort a Stack - https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275
+6. Redundant Brackets - https://www.codingninjas.com/codestudio/problems/redundant-brackets_975473
+7. Minimum Cost To Make String Valid - https://www.codingninjas.com/codestudio/problems/minimum-cost-to-make-string-valid_1115770
+
+Homework Questions - 
+Ques 1: Calculate Space Complexity of the following - 
+            a. Insert An Element At Its Bottom In A Given Stack - https://www.codingninjas.com/codestudio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166
+            b. Reverse Stack Using Recursion - https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875
+            c. Sort a Stack - https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275
+            d. Redundant Brackets - https://www.codingninjas.com/codestudio/problems/redundant-brackets_975473
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
