@@ -1,0 +1,13 @@
+0. Lecture Link - https://www.youtube.com/watch?v=lJLcqDsmYfg
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1MpZEoXjy2rXAvsoMCD53oZfwA5C_v4hN/view
+
+LeetCode and CodeStudio Questions Discussed in the Lecture -
+1. Next Smaller Element - https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581
+2. Largest Rectangle in Histogram - https://leetcode.com/problems/largest-rectangle-in-histogram
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
