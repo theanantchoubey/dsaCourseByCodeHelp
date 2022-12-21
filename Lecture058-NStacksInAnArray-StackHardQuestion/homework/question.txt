@@ -1,0 +1,2 @@
+Homework Question -
+Ques 1: Dry Run Pop Function of N Stacks In An Array - https://www.codingninjas.com/codestudio/problems/n-stacks-in-an-array_1164271
