@@ -1,0 +1,2 @@
+Homework Questions - 
+Ques 1: Explore More Approaches to Solve - The Celebrity Problem - https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1

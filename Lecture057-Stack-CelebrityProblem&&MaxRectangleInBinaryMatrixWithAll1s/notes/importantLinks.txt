@@ -1,0 +1,16 @@
+0. Lecture Link - https://www.youtube.com/watch?v=9u2BJfmWNEg&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=62
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1aZR-yGzOShHiIAH3Owar1KV0u0UT-9nJ/view
+
+GeeksForGeeks Questions Disucssed in the Lecture - 
+1. The Celebrity Problem - https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1
+2. Max Rectangle - https://practice.geeksforgeeks.org/problems/max-rectangle/1
+
+Homework Questions - 
+Ques 1: Explore More Approaches to Solve - The Celebrity Problem - https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
