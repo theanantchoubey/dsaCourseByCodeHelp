@@ -1,0 +1,8 @@
+Homework Questions -
+Ques 1: Calculate Space Complexity of Queue Reversal (Recurrsion Approach) - https://practice.geeksforgeeks.org/problems/queue-reversal/1
+Ques 2: Use Optimal Approach to Solve - First negative integer in every window of size k - https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1
+Ques 3: Implement Stack Using Queue
+Ques 4: Implement Queue Using Stack
+Ques 5: Calculate Time and Space Complexity of Interleave the first half of the queue with second half (Approach 02) - https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/
+Ques 6: Dry Run k Queues in a single array (Approach 02) - https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/
+Ques 7: Calculate Time and Space Complexity of Sum of minimum and maximum elements of all subarrays of size k (Approach 02) - https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/
