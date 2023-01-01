@@ -5,6 +5,9 @@ Homework Questions -
 Ques 1: Reverse Level Order Traversal
 Ques 2: Solve inorder, preorder and postorder through iteration
 
+Homework Tasks -
+Task 1: Participate in Contest 5 - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-5
+
 Others
 1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
 2. Telegram Channel - https://telegram.me/lovebabbercodehelp
