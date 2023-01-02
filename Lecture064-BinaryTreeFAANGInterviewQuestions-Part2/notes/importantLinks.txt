@@ -1,0 +1,25 @@
+0. Lecture Link - https://www.youtube.com/watch?v=s1d8UGDCCN8
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1MHf_W1V7gW3t_ge8hDxRTyQb8mAjI7D8/view
+
+GeeksForGeeks Questions Discussed in the Lecture -
+1. ZigZag Tree Traversal - https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+2. Boundary Traversal of binary tree - https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+3. Vertical Traversal of Binary Tree - https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1
+4. Top View of Binary Tree - https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+5. Bottom View of Binary Tree - https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+6. Left View of Binary Tree - https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+7. Right View of Binary Tree - https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
+8. Diagonal Traversal of Binary Tree - https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
+
+Homework Questions - 
+Ques 1: What is the effect of maps in time Complexity of Bottom View of Binary Tree - Google
+Ques 2: Draw Recursive Tree and Function Call Stack of Left View of Binary Tree
+Ques 3: Diagonal Traversal of Binary Tree
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+6. Notes - https://drive.google.com/drive/folders/1q4y9wbRsN3A-20hsv_jNRe0382nRMq0_
