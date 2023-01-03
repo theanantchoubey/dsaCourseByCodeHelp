@@ -1,0 +1,4 @@
+Homework Questions - 
+Ques 1: Calculate Time Complexity of K Sum Paths - https://practice.geeksforgeeks.org/problems/k-sum-paths/1
+Ques 2: Find mistake in Solution of K Sum Paths - https://practice.geeksforgeeks.org/problems/k-sum-paths/1
+Ques 3: Solve through Approch 2nd - Kth Ancestor in a Tree - https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1
