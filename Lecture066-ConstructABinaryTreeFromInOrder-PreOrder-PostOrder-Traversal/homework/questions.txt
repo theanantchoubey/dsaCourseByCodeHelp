@@ -1,0 +1,5 @@
+Homework Questions - 
+Ques 1: Check Where Going Wrong - Construct Tree from Inorder & Preorder - https://practice.geeksforgeeks.org/problems/construct-tree-1/1
+Ques 2: Calculate Space Complexity of 
+            a. Construct Tree from Inorder & Preorder - https://practice.geeksforgeeks.org/problems/construct-tree-1/1
+            b. Tree from Postorder and Inorder - https://practice.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1    
