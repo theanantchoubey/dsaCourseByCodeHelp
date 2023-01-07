@@ -1,0 +1,19 @@
+0. Lecture Link - https://www.youtube.com/watch?v=pDURIj98e0I
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1TLaU9II8ae6kIPbqlReCqgMT9spd5sfC/view
+
+CodeStudio Questions Discussed in the Lecture -
+1. Partial BST - https://www.codingninjas.com/codestudio/problems/validate-bst_799483
+2. Predecessor And Successor In BST - https://www.codingninjas.com/codestudio/problems/_893049
+3. Find K-th smallest Element in BST - https://www.codingninjas.com/codestudio/problems/find-k-th-smallest-element-in-bst_1069333
+4. LCA of Two Nodes In A BST - https://www.codingninjas.com/codestudio/problems/lca-in-a-bst_981280
+
+Homework Questions -
+Ques 1: Solve using Morris Traversal - Find K-th smallest Element in BST - https://www.codingninjas.com/codestudio/problems/find-k-th-smallest-element-in-bst_1069333
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+6. Notes - https://drive.google.com/drive/folders/1q4y9wbRsN3A-20hsv_jNRe0382nRMq0_
