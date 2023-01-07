@@ -1,0 +1,23 @@
+0. Lecture Link - https://www.youtube.com/watch?v=UeRUKRJvPa4
+
+CodeStudio Questions Discussed in the Lecture - 
+1. Search in BST - https://www.codingninjas.com/codestudio/problems/search-in-bst_1402878
+
+Homework Questions -
+Ques 1: Check whether Preorder & Postorder are right or not ?
+Ques 2: Derive BST insertion Time Complexity
+Ques 3: Dry run 4-5 Examples 
+Ques 4: Draw Recursive tree of Deletion 
+
+Homework Tasks - 
+Task 1: Find out -
+            a. What is inorder predecessor & how to calculate it ?
+            a. What is inorder succcessor & how to calculate it ?
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+6. Notes - https://drive.google.com/drive/folders/1q4y9wbRsN3A-20hsv_jNRe0382nRMq0_

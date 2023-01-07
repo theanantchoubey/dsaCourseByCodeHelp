@@ -1,0 +1,5 @@
+Homework Questions -
+Ques 1: Check whether Preorder & Postorder are right or not ?
+Ques 2: Derive BST insertion Time Complexity
+Ques 3: Dry run 4-5 Examples 
+Ques 4: Draw Recursive tree of Deletion 
