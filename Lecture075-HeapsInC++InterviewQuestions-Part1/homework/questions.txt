@@ -1,0 +1,4 @@
+Homework Questions - 
+Ques 1: Time Complexity of Kth Smallest Element - https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
+Ques 2: Time & Space Complexity of Merge two binary Max heaps - https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1
+Ques 3: Code Convert BST to Min Heap - https://www.geeksforgeeks.org/convert-bst-min-heap/
