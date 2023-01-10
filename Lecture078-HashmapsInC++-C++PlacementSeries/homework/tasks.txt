@@ -1,2 +1,4 @@
-Homework Task -
+Homework Tasks -
 Task 1: Solve all Hash maps questions from Coding Ninjas Love Babbar DSA Sheet - https://www.codingninjas.com/codestudio/problem-lists/love-babbar-dsa-sheet-problems?practice_topic[]=Hash%20Table
+Task 2: Participate in Love Babbar Contest 7 - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-7
+

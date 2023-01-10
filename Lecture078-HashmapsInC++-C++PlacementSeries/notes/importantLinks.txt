@@ -4,8 +4,9 @@
 CodeStudio Questions Discussed in the Lecture - 
 1. Maximum Frequency Number - https://www.codingninjas.com/codestudio/problems/maximum-frequency-number_920319
 
-Homework Task -
+Homework Tasks -
 Task 1: Solve all Hash maps questions from Coding Ninjas Love Babbar DSA Sheet - https://www.codingninjas.com/codestudio/problem-lists/love-babbar-dsa-sheet-problems?practice_topic[]=Hash%20Table
+Task 2: Participate in Love Babbar Contest 7 - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-7
 
 Others
 1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
