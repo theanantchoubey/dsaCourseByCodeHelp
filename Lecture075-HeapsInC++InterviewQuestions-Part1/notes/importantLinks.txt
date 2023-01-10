@@ -12,6 +12,9 @@ Ques 1: Time Complexity of Kth Smallest Element - https://practice.geeksforgeeks
 Ques 2: Time & Space Complexity of Merge two binary Max heaps - https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap0144/1
 Ques 3: Code Convert BST to Min Heap - https://www.geeksforgeeks.org/convert-bst-min-heap/
 
+Homework Tasks -
+Task 1: Participate in Contest 6 - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-6
+
 Others
 1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
 2. Telegram Channel - https://telegram.me/lovebabbercodehelp
