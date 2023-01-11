@@ -1,0 +1,3 @@
+Homework Questions -
+Ques 1: Why we removed 'return' keyword from printSuggestions function ?
+Ques 2: Dry run atleast 5 examples for Implement a phone directory - https://www.codingninjas.com/codestudio/problems/implement-a-phone-directory_1062666
