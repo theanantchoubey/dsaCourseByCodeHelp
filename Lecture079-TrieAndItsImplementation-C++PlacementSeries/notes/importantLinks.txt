@@ -1,0 +1,18 @@
+0. Lecture Link - https://www.youtube.com/watch?v=Y6dOuGjwsxU
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1N-MacLjuE8sEk-19i5nN18myJeqcTYLD/view
+
+CodeStudio Questions Discussed in the Lecture -
+1. Implement Trie - https://www.codingninjas.com/codestudio/problems/implement-trie_631356
+
+Homework Questions - 
+Ques 1: Code Remove word for Trie
+Ques 2: Optimally utilize space in remove word for Trie.
+Ques 3: Dry run - Implement Trie - https://www.codingninjas.com/codestudio/problems/implement-trie_631356
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+6. Notes - https://drive.google.com/drive/folders/1q4y9wbRsN3A-20hsv_jNRe0382nRMq0_

@@ -1,0 +1,4 @@
+Homework Questions - 
+Ques 1: Code Remove word for Trie
+Ques 2: Optimally utilize space in remove word for Trie.
+Ques 3: Dry run - Implement Trie - https://www.codingninjas.com/codestudio/problems/implement-trie_631356
