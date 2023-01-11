@@ -1,0 +1,2 @@
+Homework Questions -
+Ques 1: Use for loop instead of 4 if statements (D, L, R, U) - Rat in a Maze - https://www.codingninjas.com/codestudio/problems/rat-in-a-maze_1215030
