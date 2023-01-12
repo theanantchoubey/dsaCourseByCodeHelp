@@ -1,0 +1,2 @@
+Homework Question -
+Ques 1: Dry run code and formula(used in isSafe function) for matrix - Sudoku Solver - https://www.codingninjas.com/codestudio/problems/sudoku-solver_699919
