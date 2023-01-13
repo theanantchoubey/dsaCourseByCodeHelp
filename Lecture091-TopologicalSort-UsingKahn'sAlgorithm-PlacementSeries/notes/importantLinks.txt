@@ -4,6 +4,9 @@
 CodeStudio Question Discussed in the Lecture - 
 1. Topological Sort (using Kahn's Algorithm) - https://www.codingninjas.com/codestudio/problems/topological-sort_982938
 
+Homework Task -
+Task 1: Participate in Contest 9 by Love Babbar - https://www.codingninjas.com/codestudio/contests/love-babbar-contest-9
+
 Others
 1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
 2. Telegram Channel - https://telegram.me/lovebabbercodehelp
