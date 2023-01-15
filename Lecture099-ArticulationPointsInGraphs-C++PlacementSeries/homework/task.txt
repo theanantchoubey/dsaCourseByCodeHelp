@@ -1,0 +1,2 @@
+Homework Task -
+Task 1: Read the article -  Articulation Points in a Graph - https://www.codingninjas.com/codestudio/library/articulation-points-in-a-graph

@@ -1,0 +1,19 @@
+0. Lecture Link - https://www.youtube.com/watch?v=fqkqx6OBRDE
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/14xz7bRoINmxYwn28FpprY4VhyC5QKp0Z/view
+
+CodeStudio Question Discussed in the Lecture - 
+1. Articulation Points in a Graph - https://www.codingninjas.com/codestudio/library/articulation-points-in-a-graph
+
+Homework Question -
+Ques 1: Dry run some examples with Approach #02 (Optimised Approach) - Articulation Points in a Graph - https://www.codingninjas.com/codestudio/library/articulation-points-in-a-graph
+
+Homework Task -
+Task 1: Read the article -  Articulation Points in a Graph - https://www.codingninjas.com/codestudio/library/articulation-points-in-a-graph
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+6. Notes - https://drive.google.com/drive/folders/1q4y9wbRsN3A-20hsv_jNRe0382nRMq0_
