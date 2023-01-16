@@ -1,0 +1,4 @@
+Homework Questions -
+Ques 1: Simplify the following code - Min Cost Climbing Stairs - https://leetcode.com/problems/min-cost-climbing-stairs/
+        i. int ans = min(solve(cost, n-1), solve(cost, n-2));
+        ii. int ans = min(solve2(cost, n-1, dp), solve2(cost, n-2, dp));
