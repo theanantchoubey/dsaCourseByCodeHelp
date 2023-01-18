@@ -1,0 +1,3 @@
+Homework Questions -
+Ques 1: Calculate Time & Space Complexities through different approaches - Minimum Score Triangulation of Polygon - https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+Ques 2: Number of ways pf creating triangle from a polygon (Hint: Catalon Number) - Video 25:10
