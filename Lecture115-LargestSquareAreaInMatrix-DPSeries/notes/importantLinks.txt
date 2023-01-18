@@ -2,7 +2,7 @@
 1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1G9-W7U6-KjLN3R-3_qPesE044HukTVuk/view
 
 
-CodeStudio Questions Discussed in the Lecture -
+GeeksForGeeks Questions Discussed in the Lecture -
 1. Largest square formed in a matrix - https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1
 
 Homework Question -

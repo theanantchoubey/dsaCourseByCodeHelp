@@ -1,7 +1,7 @@
 0. Lecture Link - https://www.youtube.com/watch?v=aJTCcyPrPOA
 1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1_bFL3tvqsfixpmYw0VCVqaWZOKtqPO0k/view
 
-CodeStudio Question Discussed in the Lecture - 
+GeeksForGeeks Question Discussed in the Lecture - 
 1. Get Minimum Squares - https://practice.geeksforgeeks.org/problems/get-minimum-squares0538/1
 
 Others
