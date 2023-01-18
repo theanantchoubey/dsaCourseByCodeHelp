@@ -1,7 +1,8 @@
 0. Lecture Link - https://www.youtube.com/watch?v=Wct0mN2SCRQ
 1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1WBv76GVH0USFx0_n_KeTSBtViHo9Xx7U/view
 
-
+CodeStudio Question Discussed in the Lecture - 
+1. Combination Sum IV - https://www.codingninjas.com/codestudio/problems/number-of-ways_3755252
 
 Others
 1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
