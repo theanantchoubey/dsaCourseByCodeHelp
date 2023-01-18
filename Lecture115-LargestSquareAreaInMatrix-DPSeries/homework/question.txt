@@ -1,0 +1,2 @@
+Homework Question -
+Ques 1: Use Space Optimisation Approach to solve in O(1) Space Complexity - Largest square formed in a matrix - https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix0806/1
