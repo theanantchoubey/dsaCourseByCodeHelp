@@ -1,0 +1,6 @@
+Homework Question -
+Ques 1: Solve at O(1) - Space Complexity, using following hints -:
+            a. Use Greedy Algorithm
+            b. Use 1 Vector
+            c. 0 1 KnapSack Problem
+        [Link: Reducing Dishes - https://leetcode.com/problems/reducing-dishes]
