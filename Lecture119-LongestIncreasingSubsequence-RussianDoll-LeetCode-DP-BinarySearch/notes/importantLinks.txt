@@ -1,0 +1,17 @@
+0. Lecture Link - https://www.youtube.com/watch?v=MYHajVcnXSA
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1Q4wfSVWmdKCmg8ro7XLusR3DtCQSFSrQ/view
+
+GeeksForGeeks and LeetCode Questions Discussed in the Lecture -
+1. Longest Increasing Subsequence - https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1
+2. Russian Doll Envelopes - https://leetcode.com/problems/russian-doll-envelopes/
+
+Homework Question -
+Ques 1: Russian Doll Envelopes - https://leetcode.com/problems/russian-doll-envelopes/
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+6. Notes - https://drive.google.com/drive/folders/1q4y9wbRsN3A-20hsv_jNRe0382nRMq0_
