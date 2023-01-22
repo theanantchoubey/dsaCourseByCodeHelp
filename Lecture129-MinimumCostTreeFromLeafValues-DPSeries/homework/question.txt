@@ -1,0 +1,3 @@
+Homework Question -
+Ques 1: Solve using Tabulation Approach - Minimum Cost Tree From Leaf Values - https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+        [Hint: Take help from question solved in previous lecture]
