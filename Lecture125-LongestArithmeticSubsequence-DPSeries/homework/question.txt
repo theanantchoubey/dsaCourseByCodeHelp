@@ -1,0 +1,2 @@
+Homework Question -
+Ques 1: Solve in O(n) Space Complexity - Longest Arithmetic Progression - https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1
