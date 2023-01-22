@@ -1,0 +1,17 @@
+0. Lecture Link - https://www.youtube.com/watch?v=ox7fOk3HjlA
+1. Slides Discussed in the Lecture - https://drive.google.com/file/d/1Bh1MPA4QZpvY4P5_VjcuedmdeyMfPwgg/view
+
+LeetCode Question Discussed in the Lecture - 
+1. Unique Binary Search Trees - https://leetcode.com/problems/unique-binary-search-trees
+
+Homework Question -
+Ques 1: Solve using Catalan Number for space optimisation approach - Unique Binary Search Trees - https://leetcode.com/problems/unique-binary-search-trees
+Ques 2: Intersecting Chords in a Circle - https://www.interviewbit.com/problems/intersecting-chords-in-a-circle/
+
+Others
+1. Course flow - https://whimsical.com/dsa-4-placement-by-love-babbar-C7JX2fJ8hprv9ivEHkArjD
+2. Telegram Channel - https://telegram.me/lovebabbercodehelp
+3. Github Code - https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series
+4. Discord Server - https://discord.com/channels/795358694140280862/795358694140280868
+5. DSA Sheet - https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+6. Notes - https://drive.google.com/drive/folders/1q4y9wbRsN3A-20hsv_jNRe0382nRMq0_
