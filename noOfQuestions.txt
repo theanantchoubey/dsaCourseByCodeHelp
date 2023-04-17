@@ -1,3 +1,4 @@
 CodeStudio - 91 Questions
 Geeks For Geeks - 45 Questions
-Leetcode - 
+Leetcode - 48 Questions
+Total Questions --> 184 Questions solved
